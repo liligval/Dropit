@@ -8,7 +8,7 @@
  */
 
 ;(function($) {
-
+    var aux;
     $.fn.dropit = function(method) {
 
         var methods = {
